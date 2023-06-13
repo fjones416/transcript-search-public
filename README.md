@@ -22,3 +22,8 @@ This app solves the problem by providing a simple and easy-to-use interface for 
 
 ## Screenshots
 ![Screenshot](./Screenshot_1.png)
+![Screenshot](./Screenshot_2.png)
+![Screenshot](./Screenshot_3.png)
+![Screenshot](./Screenshot_4.png)
+![Screenshot](./Screenshot_5.png)
+![Screenshot](./Screenshot_6.png)
