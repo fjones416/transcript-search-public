@@ -21,4 +21,4 @@ The marketing team at Aspire Software was having difficulty searching and filter
 This app solves the problem by providing a simple and easy-to-use interface for searching and filtering transcripts.
 
 ## Screenshots
-![Screenshot](./Screenshot_l.png)
+![Screenshot](./Screenshot_1.png)
